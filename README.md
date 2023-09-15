@@ -1,8 +1,8 @@
 - <h1>Who am I?</h1>
-- 👋 Hi, I’m Fredy López
-- 👀 I’m interested in learn  to code
+- 👋 Hi, I’m a person who love to code
+- 👀 I’m interested in learn  to code, databases and cybersecurity
 - I´m System Enegeniering´s student 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JAVA, HTML and CSS
 - 📫 How to reach me ...
 
 
