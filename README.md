@@ -46,7 +46,7 @@ const fredy = {
 };
 ```
 
-## 📫 Contáctame
+## 📫 Contact me
 
 <div>
 
